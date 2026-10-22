@@ -1,0 +1,6 @@
+data/*
+!data/팀산출물/
+out/
+__pycache__/
+*.pyc
+*.html
